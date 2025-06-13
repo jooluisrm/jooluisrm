@@ -40,6 +40,14 @@
   <img width="12" />
   <!-- shadcn/ui -->
   <img src="https://avatars.githubusercontent.com/u/139895814?s=200&v=4" height="40" alt="shadcn/ui logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" height="40" alt="prisma logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="sql logo" />
+  <img width="12" />
+
+
 </div>
 
 
