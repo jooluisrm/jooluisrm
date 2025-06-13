@@ -71,7 +71,7 @@
 ###
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/jo%C3%A3o-lu%C3%ADs-rodrigues-de-moura-47214a275/" target="_blank">
+  <a href="https://www.linkedin.com/in/jaoluisrm/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
   <a href="joaoluis4633@gmail.com" target="_blank">
